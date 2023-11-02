@@ -26,7 +26,7 @@ body {
     margin-right: 8cm;
 }
 
-p {
+p, dl, ul, ol {
     margin-left: 2cm;
     margin-right: 2cm;
 }
@@ -35,4 +35,8 @@ p {
     width: 7cm;
     height: 5cm;
     margin-left: 0.5cm;
+}
+
+.icon {
+    width: 15px;
 }
