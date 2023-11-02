@@ -1,0 +1,38 @@
+body {
+    background-color: coral;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+#encabezado {
+    text-align: center;
+    border-style: dashed;
+    border-color: blanchedalmond;
+    font-size: 1cm;
+    padding-top: 0.2cm;
+    padding-bottom: 0.2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+.subtitle {
+    text-align: center;
+    border: 0.2cm;
+    border-style: solid;
+    border-radius: 0.5cm;
+    padding-top: 0.2cm;
+    padding-bottom: 0.2cm;
+    margin-left: 8cm;
+    margin-right: 8cm;
+}
+
+p {
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+#profilePhoto {
+    width: 7cm;
+    height: 5cm;
+    margin-left: 0.5cm;
+}
